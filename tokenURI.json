@@ -1,0 +1,15 @@
+{
+  "name": "My Unique NFT",
+  "description": "This is a unique NFT from the MyNFT collection.",
+  "image": "https://www.elianedavila.com/wp-content/uploads/2021/04/arte-digital-nft-pintura.jpg",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Power",
+      "value": 100
+    }
+  ]
+}

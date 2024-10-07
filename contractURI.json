@@ -1,0 +1,7 @@
+{
+  "name": "My NFT Collection",
+  "description": "A unique collection of NFTs.",
+  "image": "https://www.elianedavila.com/wp-content/uploads/2021/04/arte-digital-nft-pintura.jpg",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0x1234567890abcdef1234567890abcdef12345678"
+}
